@@ -1,6 +1,0 @@
-"Hello Git"
-	|
-	|
-	|
-	+----->Committed to git
-
